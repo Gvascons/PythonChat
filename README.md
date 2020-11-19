@@ -1,2 +1,0 @@
-# PythonChat
-## For Linux
